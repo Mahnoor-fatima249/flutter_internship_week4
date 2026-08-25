@@ -7,7 +7,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-State%20Management-FF5722?style=for-the-badge)
-![HTTP](https://img.shields.io/badge/HTTP- API%20Calls-4CAF50?style=for-the-badge)
 
 **1-Month Flutter Development Internship | Week 4 of 4 - Final Project**
 
@@ -136,10 +135,7 @@ flutter run
 
 ## 📸 Screenshots
 
-| Login Screen | Dashboard | To-Do App | Weather |
-|:---:|:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/Week%204%20Dashboard.png) | ![To-Do App](screenshots/TO-DO%20APP.png) | ![Weather](screenshots/Weather.png) |
-
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/Week%204%20Dashboard.png) | ![To-Do App](screenshots/TO-DO%20APP.png) | 
 ## 📊 Complete Internship Summary
 
 | Week | Topic | Key Skills |
