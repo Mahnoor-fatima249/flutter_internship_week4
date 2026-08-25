@@ -136,9 +136,9 @@ flutter run
 
 ## 📸 Screenshots
 
-| Login | Dashboard | To-Do App | Weather | Weather Result | Error |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![To-Do](screenshots/todo.png) | ![Weather](screenshots/weather.png) | ![Result](screenshots/weather_result.png) | ![Error](screenshots/error.png) |
+| Login Screen | Dashboard | To-Do App | Weather |
+|:---:|:---:|:---:|:---:|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/Week%204%20Dashboard.png) | ![To-Do App](screenshots/TO-DO%20APP.png) | ![Weather](screenshots/Weather.png) |
 
 ## 📊 Complete Internship Summary
 
