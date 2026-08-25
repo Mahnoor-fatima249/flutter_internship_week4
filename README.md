@@ -136,11 +136,23 @@ flutter run
 
 ## 📸 Screenshots
 
-> Screenshots will be added after app testing.
+### Login Screen
+![Login](screenshots/localhost_50737_%20(1).png)
 
-| Login | Dashboard | To-Do App | Weather Search | Weather Result | Error Handling |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| *Coming Soon* | *Coming Soon* | *Coming Soon* | *Coming Soon* | *Coming Soon* | *Coming Soon* |
+### Dashboard
+![Dashboard](screenshots/localhost_52830_.png)
+
+### To-Do App
+![To-Do App](screenshots/localhost_63834_.png)
+
+### Weather Search
+![Weather Search](screenshots/localhost_52830_%20(1).png)
+
+### Weather Result
+![Weather Result](screenshots/localhost_52830_%20(2).png)
+
+### Error Handling
+![Error Handling](screenshots/localhost_50737_%20(2).png)
 
 ## 📊 Complete Internship Summary
 
